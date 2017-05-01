@@ -2,7 +2,7 @@
 This application generates a Spotify playlist from search parameters.
 
 Phrases from 'if i can't let it go out of my mind':
-go out of
+\n go out of
 can't let it
 of my mind
 if i can't
