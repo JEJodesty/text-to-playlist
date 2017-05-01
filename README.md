@@ -1,5 +1,5 @@
 # text-to-playlist
-This repository contains a Jupyter notebook that generates a Spotify playlist from string search parameter.
+This repository contains a Jupyter notebook that generates a Spotify playlist from a string search parameter.
 Example:
 Parsed phrases from the poem 'if i can't let it go out of my mind' are used as search
 parameters for tracks.
